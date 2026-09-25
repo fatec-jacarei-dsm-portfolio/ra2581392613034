@@ -13,7 +13,7 @@
 
 body {
     background-color: #000;
-    background-image: url("/images/imagem-fundo.png");
+    background-image: url("../images/imagem-fundo.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
