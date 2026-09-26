@@ -9,7 +9,7 @@
 
 **Portfólio Online**
 
-🔗 [Acesse o Portfólio](http://127.0.0.1:5500/ra2581392613034/docs/index.html)
+🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392613034/)
 
 ---
 
