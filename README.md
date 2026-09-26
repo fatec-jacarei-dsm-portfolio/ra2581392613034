@@ -1,12 +1,15 @@
-**Aluno:** Jaqueline Medeiros
+**Aluno:** Jaqueline Medeiros 
+
 **Curso:** Desenvolvimento de Software Multiplataforma  
-**Turma:** 2º Semestre|2026
+
+**Turma:** 2º Semestre|2026 
+
 **Ra:** 2581392613034
 ---
 
 **Portfólio Online**
 
-🔗 [Acesse o Portfólio](LINK_PARA_PORTFOLIO)
+🔗 [Acesse o Portfólio](http://127.0.0.1:5500/ra2581392613034/docs/index.html)
 
 ---
 
